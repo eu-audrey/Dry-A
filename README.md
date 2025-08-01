@@ -4,7 +4,7 @@
 
 <img align="right" width="150px" style="margin-top:-20px" src="https://i.imgur.com/f3o8N4L.png"> 
 
-<h3 align="center">Desenvolvedora Back-End | Apaixonada por Tecnologia</h3>
+<h3 align="center">Desenvolvedora de Sistema Back-End | Apaixonada por Tecnologia</h3>
 
 <p align="center">
   <em>“A tecnologia move o mundo”</em> - Steve Jobs
@@ -16,9 +16,11 @@
 
 🏆 Vencedora do prêmio Tech Girls 2023
 
-💻 Estagiária Pagbanker - Engenharia de Terminais
+☑️ Act digital at Fiserv do Brasil
 
-👩‍💻 Ex-estagiária de Desenvolvimento @ Itaú
+💻 PagBank - Engenharia de Terminais
+
+👩‍💻 Ex-estagiária de Desenvolvimento - Itaú
 
 🔭 Focada em Java, Modelagem de Dados, SQL e Cloud
 
