@@ -22,6 +22,8 @@
 
 👩‍💻 Ex-estagiária de Desenvolvimento - Itaú
 
+🫂 Fundadora Comunidade Conecta Java
+
 🔭 Focada em Java, Modelagem de Dados, SQL e Cloud
 
 🎓 Atualmente no último ano de Análise e Desenvolvimento de Sistemas
