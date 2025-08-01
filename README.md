@@ -42,7 +42,7 @@ Sempre feliz em ajudar 🙇, especialmente se você está tentando algo novo!
 
 <!--LIST-ACTIVITIES:END -->
 Sinta-se à vontade para se conectar comigo:
-<a href="https://linkedin.com/in/audrey-developer" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="linkedin" height="25" width="25" /></a>  
+<a href="https://linkedin.com/in/audrey-desenvolvedora" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="linkedin" height="25" width="25" /></a>  
 
 <p align="center">
   
@@ -51,23 +51,12 @@ Sinta-se à vontade para se conectar comigo:
 </p>
 <br><br>
 
-
-<div  align="center">
-<h2> MINHAS ESTATÍSTICAS </h2>
-	
-![Minhas Estatísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=Dry-A&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-	  
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dry-A&layout=compact&langs_count=8&theme=dracula"/>
-
-<div>	
-
-<div>
-  <h2 align="center"> SKILLS </h2>
+<div align="center">
+  <h2> SKILLS </h2>
  
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" width="40"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40"/>
