@@ -16,11 +16,11 @@
 
 🏆 Vencedora do prêmio Tech Girls 2023
 
-☑️ Act digital at Fiserv do Brasil
+☑️ ActDigital at Fiserv do Brasil
 
-💻 PagBank - Engenharia de Terminais
+💻 PagBank 
 
-👩‍💻 Ex-estagiária de Desenvolvimento - Itaú
+👩‍💻 Itaú
 
 🫂 Fundadora Comunidade Conecta Java
 
